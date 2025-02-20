@@ -38,3 +38,6 @@ imgArrow = cv2.imread('Resources/arrow.png', cv2.IMREAD_UNCHANGED'): تحميل 
 يتم دمج الصور باستخدام cvzone.overlayPNG().
 
 يتم عرض النتيجة النهائية في النافذة cv2.imshow("Output", imgBackground).
+# المخرجات 
+<img src="https://github.com/user-attachments/assets/579a0738-adbe-4041-b49e-d99cb3918ae5" width=300 >
+
